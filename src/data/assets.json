@@ -1,0 +1,8 @@
+[
+  {"id":"a1","name":"MacBook Pro 14","category":"Laptop","serialNumber":"MBP-2025-1184","status":"Allocated","location":"New York HQ","department":"Finance","condition":"Excellent","purchaseDate":"2025-03-12","warranty":"2028-03-12","bookable":false,"value":"$2,400","image":""},
+  {"id":"a2","name":"Dell UltraSharp 34","category":"Monitor","serialNumber":"DUS-2034-8831","status":"Available","location":"London Office","department":"Operations","condition":"Good","purchaseDate":"2024-11-04","warranty":"2027-11-04","bookable":true,"value":"$780","image":""},
+  {"id":"a3","name":"iPhone 16 Pro","category":"Mobile Device","serialNumber":"IP16-9934-5521","status":"Maintenance","location":"Berlin Hub","department":"Technology","condition":"Needs Service","purchaseDate":"2025-01-22","warranty":"2027-01-22","bookable":true,"value":"$1,199","image":""},
+  {"id":"a4","name":"Cisco Webex Room Kit","category":"Conference Equipment","serialNumber":"CWK-4482-1130","status":"Reserved","location":"Dubai Office","department":"Facilities","condition":"Good","purchaseDate":"2024-09-10","warranty":"2027-09-10","bookable":true,"value":"$4,800","image":""},
+  {"id":"a5","name":"HP LaserJet 500","category":"Printer","serialNumber":"HPL-5583-2241","status":"Available","location":"Singapore Office","department":"People","condition":"Good","purchaseDate":"2023-08-17","warranty":"2026-08-17","bookable":false,"value":"$920","image":""},
+  {"id":"a6","name":"Steelcase Standing Desk","category":"Furniture","serialNumber":"SSD-7721-1188","status":"Allocated","location":"New York HQ","department":"People","condition":"Excellent","purchaseDate":"2024-05-09","warranty":"2029-05-09","bookable":false,"value":"$1,100","image":""}
+]

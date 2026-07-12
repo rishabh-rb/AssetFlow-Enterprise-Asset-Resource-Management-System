@@ -1,0 +1,6 @@
+[
+  {"id":"m1","asset":"iPhone 16 Pro","priority":"High","status":"Open","technician":"Samuel Reed","dueDate":"2026-07-13"},
+  {"id":"m2","asset":"Cisco Webex Room Kit","priority":"Medium","status":"In Progress","technician":"Nina Lopez","dueDate":"2026-07-12"},
+  {"id":"m3","asset":"MacBook Pro 14","priority":"Low","status":"Resolved","technician":"Samuel Reed","dueDate":"2026-07-09"},
+  {"id":"m4","asset":"HP LaserJet 500","priority":"Critical","status":"Escalated","technician":"Nina Lopez","dueDate":"2026-07-12"}
+]

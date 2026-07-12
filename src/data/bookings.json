@@ -1,0 +1,6 @@
+[
+  {"id":"b1","title":"Leadership review room","asset":"Cisco Webex Room Kit","user":"Ava Patel","date":"2026-07-14","time":"10:00 AM - 11:30 AM","status":"Upcoming"},
+  {"id":"b2","title":"Equipment handoff","asset":"MacBook Pro 14","user":"Ethan Brooks","date":"2026-07-10","time":"02:00 PM - 02:30 PM","status":"Completed"},
+  {"id":"b3","title":"Workshop projection setup","asset":"Dell UltraSharp 34","user":"Sophia Khan","date":"2026-07-13","time":"09:00 AM - 10:00 AM","status":"Upcoming"},
+  {"id":"b4","title":"Training room booking","asset":"HP LaserJet 500","user":"Maya Chen","date":"2026-07-11","time":"01:00 PM - 02:00 PM","status":"Cancelled"}
+]

@@ -1,0 +1,22 @@
+{
+  "utilization": [
+    {"name":"Finance","value":82},
+    {"name":"Operations","value":74},
+    {"name":"Technology","value":89},
+    {"name":"Facilities","value":68},
+    {"name":"People","value":51}
+  ],
+  "maintenance": [
+    {"month":"Jan","requests":18,"resolved":16},
+    {"month":"Feb","requests":24,"resolved":22},
+    {"month":"Mar","requests":19,"resolved":18},
+    {"month":"Apr","requests":27,"resolved":23},
+    {"month":"May","requests":21,"resolved":20},
+    {"month":"Jun","requests":30,"resolved":28}
+  ],
+  "allocations": [
+    {"name":"Allocated","value":64},
+    {"name":"Available","value":28},
+    {"name":"Maintenance","value":8}
+  ]
+}

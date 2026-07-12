@@ -1,0 +1,7 @@
+[
+  {"id":"u1","name":"Ava Patel","email":"ava.patel@assetflow.com","role":"Finance Manager","department":"Finance","avatar":"AP","status":"Active"},
+  {"id":"u2","name":"Ethan Brooks","email":"ethan.brooks@assetflow.com","role":"Operations Lead","department":"Operations","avatar":"EB","status":"Active"},
+  {"id":"u3","name":"Maya Chen","email":"maya.chen@assetflow.com","role":"IT Administrator","department":"Technology","avatar":"MC","status":"Away"},
+  {"id":"u4","name":"Noah Johnson","email":"noah.johnson@assetflow.com","role":"Facilities Coordinator","department":"Facilities","avatar":"NJ","status":"Offline"},
+  {"id":"u5","name":"Sophia Khan","email":"sophia.khan@assetflow.com","role":"HR Specialist","department":"People","avatar":"SK","status":"Active"}
+]

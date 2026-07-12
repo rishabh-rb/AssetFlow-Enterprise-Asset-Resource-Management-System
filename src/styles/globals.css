@@ -1,0 +1,93 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: 220 33% 98%;
+  --foreground: 222 47% 11%;
+  --card: 0 0% 100%;
+  --card-foreground: 222 47% 11%;
+  --popover: 0 0% 100%;
+  --popover-foreground: 222 47% 11%;
+  --primary: 222 78% 56%;
+  --primary-foreground: 210 40% 98%;
+  --secondary: 215 20% 95%;
+  --secondary-foreground: 222 47% 11%;
+  --muted: 214 32% 96%;
+  --muted-foreground: 215 20% 45%;
+  --accent: 202 94% 94%;
+  --accent-foreground: 222 47% 11%;
+  --destructive: 0 84% 60%;
+  --destructive-foreground: 210 40% 98%;
+  --border: 214 32% 90%;
+  --input: 214 32% 90%;
+  --ring: 222 78% 56%;
+  --radius: 1rem;
+  --chart-1: 222 78% 56%;
+  --chart-2: 173 80% 40%;
+  --chart-3: 34 93% 55%;
+  --chart-4: 280 84% 60%;
+  --chart-5: 0 84% 60%;
+}
+
+.dark {
+  --background: 222 47% 7%;
+  --foreground: 210 40% 98%;
+  --card: 222 47% 10%;
+  --card-foreground: 210 40% 98%;
+  --popover: 222 47% 10%;
+  --popover-foreground: 210 40% 98%;
+  --primary: 222 78% 66%;
+  --primary-foreground: 222 47% 11%;
+  --secondary: 217 33% 15%;
+  --secondary-foreground: 210 40% 98%;
+  --muted: 217 33% 15%;
+  --muted-foreground: 215 20% 68%;
+  --accent: 217 33% 15%;
+  --accent-foreground: 210 40% 98%;
+  --destructive: 0 72% 52%;
+  --destructive-foreground: 210 40% 98%;
+  --border: 217 33% 18%;
+  --input: 217 33% 18%;
+  --ring: 222 78% 66%;
+  --chart-1: 222 78% 66%;
+  --chart-2: 173 80% 45%;
+  --chart-3: 34 93% 60%;
+  --chart-4: 280 84% 66%;
+  --chart-5: 0 84% 65%;
+}
+
+* {
+  border-color: hsl(var(--border));
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply bg-background text-foreground antialiased;
+  font-feature-settings: 'ss01' 1, 'cv10' 1, 'cv11' 1;
+  min-height: 100vh;
+  background-image:
+    radial-gradient(circle at top left, hsl(var(--primary) / 0.08), transparent 28%),
+    radial-gradient(circle at bottom right, hsl(var(--chart-2) / 0.07), transparent 26%);
+}
+
+#root {
+  min-height: 100vh;
+}
+
+::selection {
+  background: hsl(var(--primary) / 0.18);
+}
+
+@layer utilities {
+  .glass-panel {
+    @apply border border-white/10 bg-white/70 backdrop-blur-xl dark:bg-slate-950/70;
+  }
+
+  .surface {
+    @apply rounded-2xl border border-border bg-card text-card-foreground shadow-[0_1px_2px_rgba(16,24,40,0.05),0_20px_50px_rgba(16,24,40,0.08)];
+  }
+}

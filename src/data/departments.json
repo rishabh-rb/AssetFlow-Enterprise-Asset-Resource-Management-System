@@ -1,0 +1,7 @@
+[
+  {"id":"d1","name":"Finance","manager":"Ava Patel","headcount":24,"assets":118,"budget":"$4.2M"},
+  {"id":"d2","name":"Operations","manager":"Ethan Brooks","headcount":41,"assets":196,"budget":"$7.8M"},
+  {"id":"d3","name":"Technology","manager":"Maya Chen","headcount":32,"assets":224,"budget":"$12.1M"},
+  {"id":"d4","name":"Facilities","manager":"Noah Johnson","headcount":18,"assets":87,"budget":"$2.9M"},
+  {"id":"d5","name":"People","manager":"Sophia Khan","headcount":14,"assets":36,"budget":"$1.4M"}
+]

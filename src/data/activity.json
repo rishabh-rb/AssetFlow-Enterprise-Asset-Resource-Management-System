@@ -1,0 +1,7 @@
+[
+  {"id":"ac1","title":"Allocated asset to Finance","description":"MacBook Pro 14 allocated to Ava Patel.","time":"08:15 AM","type":"asset"},
+  {"id":"ac2","title":"Booking completed","description":"Equipment handoff completed for Ethan Brooks.","time":"09:20 AM","type":"booking"},
+  {"id":"ac3","title":"Maintenance escalated","description":"HP LaserJet 500 was escalated to critical.","time":"11:05 AM","type":"maintenance"},
+  {"id":"ac4","title":"Audit verified","description":"Conference equipment audit passed verification.","time":"01:45 PM","type":"audit"},
+  {"id":"ac5","title":"System preference changed","description":"Dark mode enabled for the operations team.","time":"02:30 PM","type":"system"}
+]

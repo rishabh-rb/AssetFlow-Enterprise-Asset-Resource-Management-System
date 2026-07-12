@@ -1,0 +1,6 @@
+[
+  {"id":"n1","title":"Asset transfer approved","description":"MacBook Pro 14 moved from Operations to Finance.","group":"Operations","read":false,"time":"10 min ago"},
+  {"id":"n2","title":"Maintenance due today","description":"iPhone 16 Pro is scheduled for diagnostics.","group":"Maintenance","read":false,"time":"24 min ago"},
+  {"id":"n3","title":"New booking request","description":"Cisco Webex Room Kit requested for leadership review.","group":"Bookings","read":true,"time":"1 hour ago"},
+  {"id":"n4","title":"Audit cycle started","description":"Q3 physical verification is now in progress.","group":"Audits","read":true,"time":"3 hours ago"}
+]
